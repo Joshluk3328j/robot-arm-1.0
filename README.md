@@ -55,7 +55,7 @@ The 5-DOF robotic arm is a compact, versatile platform for learning robotics and
 ## Circuit Diagram
 The circuit connects the Arduino to five servo motors, five potentiometers, two buttons, and a buzzer. Servo motors are powered externally to avoid overloading the Arduino, while buttons use internal pull-up resistors for simplified wiring. The schematic below illustrates the connections.
 
-![Circuit Schematic][https://github.com/Joshluk3328j/robot-arm-1.0/blob/main/robot_1_schematics.pdf)
+![Circuit Schematic][https://github.com/Joshluk3328j/robot-arm-1.0/blob/main/robot_1_schematics.png)
 
 ## Software Requirements
 - Arduino IDE (version 2.0 or higher)
