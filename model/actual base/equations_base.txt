@@ -1,0 +1,2 @@
+﻿"base_diameter"=55
+"D1@Sketch1"="base_diameter"

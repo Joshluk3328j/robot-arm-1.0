@@ -1,0 +1,6 @@
+﻿"D1@Boss-Extrude6"="base_diameter"/2 + 1.5
+"D1@Boss-Extrude5"="base_diameter"/2 + 15
+"D2@Boss-Extrude5"="base_diameter"/2 + 15
+"D2@Sketch10"="base_diameter"/2 - 3
+"D3@Sketch10"="base_diameter"/2 - 3
+"D1@Sketch12"="base_diameter" + 20
