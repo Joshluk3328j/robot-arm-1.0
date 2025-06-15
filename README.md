@@ -1,4 +1,4 @@
-# 5-DOF Robotic Arm
+# Robot Arm 1.0
 
 A 5 Degrees of Freedom (DOF) robotic arm controlled by an Arduino microcontroller. This project features precise servo motor control with cosine-eased smooth transitions, motion recording and playback stored in EEPROM, and intuitive button-based operation with buzzer feedback. Designed for automation tasks, educational purposes, or hobbyist robotics.
 
