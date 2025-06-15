@@ -16,7 +16,7 @@ A 5 Degrees of Freedom (DOF) robotic arm controlled by an Arduino microcontrolle
 ## Overview
 The 5-DOF robotic arm is a compact, versatile platform for learning robotics and automation. It uses five servo motors to achieve flexible movements, controlled via potentiometers or pre-recorded motion sequences. The physical design is optimized for stability and ease of assembly, as shown in the 3D rendering below.
 
-![3D Rendering of 5-DOF Robotic Arm](https://github.com/yourusername/5-dof-robotic-arm/raw/main/docs/images/3d_rendering.png)
+![3D Rendering of Robot arm 1.0](https://github.com/Joshluk3328j/robot-arm-1.0/blob/main/model/robot_arm_1.0%20images/1.jpg)
 
 ## Features
 - **5-DOF Control**: Independent control of base, shoulder, elbow, wrist, and gripper via five servo motors.
@@ -55,7 +55,7 @@ The 5-DOF robotic arm is a compact, versatile platform for learning robotics and
 ## Circuit Diagram
 The circuit connects the Arduino to five servo motors, five potentiometers, two buttons, and a buzzer. Servo motors are powered externally to avoid overloading the Arduino, while buttons use internal pull-up resistors for simplified wiring. The schematic below illustrates the connections.
 
-![Circuit Schematic](https://github.com/yourusername/5-dof-robotic-arm/raw/main/docs/images/circuit_schematic.png)
+![Circuit Schematic][https://github.com/Joshluk3328j/robot-arm-1.0/blob/main/robot_1_schematics.pdf)
 
 ## Software Requirements
 - Arduino IDE (version 2.0 or higher)
